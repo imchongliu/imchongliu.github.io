@@ -1,4 +1,4 @@
----
+﻿---
 title: SPC issued guidelines requesting judgments aligned with previous cases
 date: {{ date }}
 updated: {{ date }}
@@ -12,9 +12,9 @@ toc: true
 
 The SPC issued guidelines requesting judges searching previour similar cases and ensuring judgments aligned with previous cases, expecially SPC Guiding Case. The status and authorities of SPC Guiding Case used to called into question. This time SPC piloted this guidelines in court system could justify the authority of SPC Guiding Case, but also bringing extra workload to those already overloaded judges.
 
-```xml
+
 <!--more-->
-```
+
 
 ## 最高人民法院关于统一法律适用加强类案检索的指导意见（试行）
 
